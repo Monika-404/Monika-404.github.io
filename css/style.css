@@ -25,11 +25,12 @@
   h1 
   { 
     font-size: 4em;
-    align-items: center;
+    text-align: center;
   } 
   small 
   { 
-    align-items: center;
+    text-items: center;
+    display: inline-block;
   }
   main
   {
