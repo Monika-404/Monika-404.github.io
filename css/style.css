@@ -22,6 +22,10 @@
     animation-iteration-count: infinite;
     animation-direction: alternate;
   }
+  a
+  {
+    color: #eee;
+  }
   h1 
   { 
     font-size: 4em;
